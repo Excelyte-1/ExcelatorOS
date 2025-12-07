@@ -1,0 +1,37 @@
+Installing ExcelatorOS
+======================
+
+These instructions will guide you through getting ExcelatorOS onto a USB flash drive or DVD and booting into the live environment. After that, installing the OS is simple — the menus are easy to navigate, just like Windows.
+
+──────────────────────────────────────────
+Step 1: Download Balena Etcher
+──────────────────────────────────────────
+- Download Balena Etcher here: https://etcher.balena.io/  
+- Balena Etcher is also sometimes called just "Etcher".
+
+──────────────────────────────────────────
+Step 2: Flash the ISO to your USB
+──────────────────────────────────────────
+1. Open Balena Etcher.  
+2. Click **"Flash from file"** and select your ExcelatorOS ISO file.  
+3. Click **"Select target"** and choose your USB drive.  
+4. Press **"Flash"** and wait for the process to complete.  
+
+Once done, safely eject your USB drive.
+
+──────────────────────────────────────────
+Step 3: Boot into the Live Environment
+──────────────────────────────────────────
+1. Shut down your PC and power it back on.  
+2. Immediately start pressing the **Enter key repeatedly** until you see a boot menu.  
+3. Select the option that says **"Select temporary boot device"** (or something similar).  
+4. Choose your USB drive from the list.  
+
+Your computer will now boot into the ExcelatorOS live environment.
+
+──────────────────────────────────────────
+Step 4: Install ExcelatorOS
+──────────────────────────────────────────
+- Follow the on-screen instructions — the installer is intuitive and simple.  
+- Once the installation is complete, reboot your PC.  
+- Congratulations! You are now ready to start using ExcelatorOS.
