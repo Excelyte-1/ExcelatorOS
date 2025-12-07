@@ -1,0 +1,38 @@
+Installing Drivers in ExcelatorOS
+=================================
+
+Installing drivers in ExcelatorOS is simple. Most drivers for **Linux Mint** or **Ubuntu** work perfectly, even though ExcelatorOS is technically a different OS.
+
+──────────────────────────────────────────
+Step 1: Identify Your Device
+──────────────────────────────────────────
+- Determine the hardware you need drivers for (graphics card, network adapter, etc.).  
+
+──────────────────────────────────────────
+Step 2: Find the Drivers
+──────────────────────────────────────────
+Here are links to the major GPU manufacturers’ drivers:  
+
+**NVIDIA:**  
+https://www.nvidia.com/en-us/drivers/  
+*Find your GPU model and download the Linux driver.*
+
+**Intel:**  
+- Intel drivers can be tricky to locate.  
+- A good tip: ask ChatGPT (or check Intel’s official support site) — it’s excellent for finding Linux drivers.
+
+**AMD:**  
+https://www.amd.com/en/support/download/drivers.html  
+*Select your GPU and download the Linux driver.*
+
+──────────────────────────────────────────
+Step 3: Install the Drivers
+──────────────────────────────────────────
+- Follow the instructions provided on the manufacturer’s site.  
+- Most of the time, installation involves downloading a file and running it, similar to Windows.
+
+──────────────────────────────────────────
+That’s it!
+──────────────────────────────────────────
+- Once the drivers are installed, your hardware should work perfectly with ExcelatorOS.  
+- If you run into issues, refer to the manufacturers website for more information!
