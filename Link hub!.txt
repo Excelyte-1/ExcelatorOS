@@ -1,0 +1,44 @@
+╔══════════════════════════════════════════╗
+║            EXCELATOROS LINK HUB          ║
+╚══════════════════════════════════════════╝
+
+Welcome to ExcelatorOS!
+This file contains all the links you need to get started.
+
+──────────────────────────────────────────
+OS ISO Download (all versions)
+
+https://github.com/Excelyte-1/ExcelatorOS/releases
+
+──────────────────────────────────────────
+[Wiki Download]
+
+https://drive.google.com/file/d/1HRecBzLksdmdMsNpw9ZjOWIFex4nst4b/view?usp=sharing
+*Offline reference and documentation.*
+
+──────────────────────────────────────────
+[Install Instructions]
+
+https://drive.google.com/file/d/1AMjCPapb9TMaNXZ76h5AasETngqi0lrf/view?usp=sharing
+*Step-by-step installation guide.*
+
+──────────────────────────────────────────
+[Driver Installation Help]
+
+https://drive.google.com/file/d/1M_ObDHImqm3e8syLC4G5tAJ8fINGFUL4/view?usp=sharing
+*Tips for installing hardware drivers.*
+
+──────────────────────────────────────────
+[Version History]
+
+v0.1 — Initial release  
+v0.2 — Added new features / bug fixes  
+v0.3 — (placeholder for next version)  
+
+──────────────────────────────────────────
+[Notes]
+
+- The GitHub ISO link will always point to the latest release as well as past versions.  
+- This file is designed to be offline-friendly. Keep it with your ISO for quick reference.
+
+──────────────────────────────────────────
