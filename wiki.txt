@@ -1,0 +1,45 @@
+Welcome to the ExcelatorOS Wiki!
+
+This guide is simple and straightforward — designed for easy reading with no confusion.
+
+──────────────────────────────────────────
+Frequently Asked Questions
+──────────────────────────────────────────
+
+**Q: Why might I not want to use ExcelatorOS?**
+
+1. You want to play Fortnite and it hasn’t been added to Linux natively (yet).  
+2. You need to clear your storage drive and remove Windows (optional).  
+3. You want a lighter Linux distro — ExcelatorOS is a bit more bloated, but it’s designed to feel familiar to Windows users and stay simple.
+
+**Q: Why should I use ExcelatorOS?**
+
+1. ExcelatorOS is simple, easy to use, and optimized for day-to-day use, even with a little extra bloat.  
+
+**Q: What architecture does ExcelatorOS support?**
+
+- Only x86-64 (64-bit) architecture is supported.  
+
+**Q: I’m a complete Linux beginner — should I use ExcelatorOS?**
+
+- Yes! ExcelatorOS is very easy to install and use.  
+- You will rarely need the terminal, so daily use is simple and beginner-friendly.  
+
+**Q: What is ExcelatorOS designed for?**
+
+- Desktop/regular computers only.  
+- Servers can technically run it, but it is intended for regular desktop use.
+
+**Q: What distro is this based on?**
+
+- Linux Mint!
+  
+──────────────────────────────────────────
+Tips & Tricks for Beginners
+──────────────────────────────────────────
+
+- Keep your TXT hub nearby for offline instructions and links.  
+- Most daily tasks can be done via the GUI; the terminal is rarely needed.  
+- Update your system regularly using the package manager to keep everything stable.  
+- Explore customization options to make ExcelatorOS feel more like your personal workspace.  
+- Back up important files before experimenting with new features or installations.  
